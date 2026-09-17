@@ -1,17 +1,24 @@
-# app_clima
+# App Clima
 
-A new Flutter project.
+Este projeto foi desenvolvido como atividade acadêmica, com o objetivo de praticar e consolidar conhecimentos em Flutter e Dart.
 
-## Getting Started
+A aplicação simula o layout e algumas funcionalidades do aplicativo Clima do iOS, apresentando informações meteorológicas de forma simples, organizada e responsiva.
 
-This project is a starting point for a Flutter application.
+Durante o desenvolvimento, foram aplicados conceitos de:
 
-A few resources to get you started if this is your first Flutter project:
+* Criação de interfaces responsivas;
+* Organização e reutilização de componentes;
+* Consumo de API meteorológica;
+* Tratamento e exibição de dados;
+* Estruturação de projetos Flutter.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologias utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter;
+* Dart;
+* API Open-Meteo;
+* Pacote HTTP.
+
+## Finalidade
+
+O projeto possui finalidade exclusivamente educacional e não possui vínculo com a Apple.
